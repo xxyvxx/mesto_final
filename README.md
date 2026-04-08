@@ -2,6 +2,9 @@
 
 *- это учебный проект по основам JavaScript на курсе "веб-разработчик" в Яндекс.Практикуме.*
 
+<img width="1975" height="1519" alt="image" src="https://github.com/user-attachments/assets/404ad4bd-dec7-4426-9af6-0c6c5cc9b1f9" />
+
+
 ### Стек технологий:
 * HTML 5
 * CSS 3
